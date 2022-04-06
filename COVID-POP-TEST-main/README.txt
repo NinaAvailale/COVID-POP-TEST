@@ -2,7 +2,7 @@ Code for: Optimization of population-level testing and contact tracing for the n
 
 ## Citation
 
-Reconsideration of population-level testing and contact tracing during the COVID-19 pandemic
+ Optimization of population-level testing and contact tracing for the next phase of the COVID-19 pandemic: a modelling study based on data from China
 
 Zengmiao Wang, Bingying Li, Jose Lourenco, Ruixue Wang, Yidan Li, Yonghong Liu, Ottar N. Bjornstad, Huaiyu Tian.
 
